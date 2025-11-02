@@ -67,24 +67,26 @@
       "isVipOnly": false,
       "systemRequirements": {
         "minimum": {
-          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i3-3240, AMD FX-4300Mémoire vive : 4 GB de mémoireGraphiques : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "processor": "64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i3-3240, AMD FX-4300Mémoire vive : 4 GB de mémoireGraphiques : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "memory": "vive : 4 GB de mémoireGraphiques : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "graphics": "GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "storage": "disque : 8 GB d'espace disque disponible"
+          "os": "et processeur 64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i3-3240, AMD FX-4300MÃ©moire viveÂ : 4Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "processor": "64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i3-3240, AMD FX-4300MÃ©moire viveÂ : 4Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "memory": "viveÂ : 4Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "graphics": "GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "storage": "disqueÂ : 8Â GB d'espace disque disponible"
         },
         "recommended": {
-          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i5-3470Mémoire vive : 8 GB de mémoireGraphiques : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "processor": "64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i5-3470Mémoire vive : 8 GB de mémoireGraphiques : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "memory": "vive : 8 GB de mémoireGraphiques : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "graphics": "GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
-          "storage": "disque : 8 GB d'espace disque disponible"
+          "os": "et processeur 64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i5-3470MÃ©moire viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "processor": "64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i5-3470MÃ©moire viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "memory": "viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "graphics": "GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
+          "storage": "disqueÂ : 8Â GB d'espace disque disponible"
         }
       },
       "developer": "Team Cherry",
       "publisher": "Team Cherry",
-      "downloadUrl": "",
-      "fileSize": "Non spécifié"
+      "downloadUrl": "https://pixeldrain.com/u/gcRDM6VM",
+      "fileSize": "Non spÃ©cifiÃ©",
+      "isFavorite": false,
+      "isInstalled": false
     }
   ]
 }
