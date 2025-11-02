@@ -43,6 +43,48 @@
       "fileSize": "Non spÃ©cifiÃ©",
       "isFavorite": false,
       "isInstalled": false
+    },
+    {
+      "id": "1030300",
+      "title": "Hollow Knight: Silksong",
+      "description": "Découvrez un vaste royaume maudit dans Hollow Knight: Silksong ! Explorez, combattez et survivez tout en grimpant jusqu'au sommet de terres maudites par la soie et les mélodies.",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Indépendant"
+      ],
+      "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1756994410",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1756994410",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/09ccaa6c16f158f9df8298feb5d196098506a028/ss_09ccaa6c16f158f9df8298feb5d196098506a028.1920x1080.jpg?t=1756994410",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/d1a893ec6357b347a55ed929833ba793b57a79d2/ss_d1a893ec6357b347a55ed929833ba793b57a79d2.1920x1080.jpg?t=1756994410",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/856e33e755a0b9a785c645d116036516ea08812b/ss_856e33e755a0b9a785c645d116036516ea08812b.1920x1080.jpg?t=1756994410",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/8e09f2b2eedd3fa9b4479dd5c26d8bdf60562478/ss_8e09f2b2eedd3fa9b4479dd5c26d8bdf60562478.1920x1080.jpg?t=1756994410"
+      ],
+      "video": "https://video.akamai.steamstatic.com/store_trailers/257186996/movie_max_vp9.webm?t=1755845917",
+      "releaseDate": "4 sept. 2025",
+      "rating": 4.5,
+      "isVipOnly": false,
+      "systemRequirements": {
+        "minimum": {
+          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i3-3240, AMD FX-4300Mémoire vive : 4 GB de mémoireGraphiques : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "processor": "64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i3-3240, AMD FX-4300Mémoire vive : 4 GB de mémoireGraphiques : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "memory": "vive : 4 GB de mémoireGraphiques : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "graphics": "GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "storage": "disque : 8 GB d'espace disque disponible"
+        },
+        "recommended": {
+          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i5-3470Mémoire vive : 8 GB de mémoireGraphiques : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "processor": "64 bits nécessairesSystème d'exploitation : Windows 10 version 21H1 (build 19043) or newerProcesseur : Intel Core i5-3470Mémoire vive : 8 GB de mémoireGraphiques : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "memory": "vive : 8 GB de mémoireGraphiques : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "graphics": "GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX : Version 10Espace disque : 8 GB d'espace disque disponible",
+          "storage": "disque : 8 GB d'espace disque disponible"
+        }
+      },
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "downloadUrl": "",
+      "fileSize": "Non spécifié"
     }
   ]
 }
