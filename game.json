@@ -87,6 +87,48 @@
       "fileSize": "Non spÃÂ©cifiÃÂ©",
       "isFavorite": false,
       "isInstalled": false
+    },
+    {
+      "id": "2881650",
+      "title": "Content Warning",
+      "description": "Filmez vos amis en train de faire des choses terrifiantes pour devenir célèbre sur SpöökTube ! (on ne vous conseille vraiment pas d'y aller en solo)",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Indépendant"
+      ],
+      "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1736717925",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.1920x1080.jpg?t=1736717925",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.1920x1080.jpg?t=1736717925",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.1920x1080.jpg?t=1736717925",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.1920x1080.jpg?t=1736717925",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_86404e1606ca67a485e20c71cddd3cffdc511c71.1920x1080.jpg?t=1736717925"
+      ],
+      "video": "https://video.akamai.steamstatic.com/store_trailers/257012412/movie_max_vp9.webm?t=1711987141",
+      "releaseDate": "1 avr. 2024",
+      "rating": 4.5,
+      "isVipOnly": false,
+      "systemRequirements": {
+        "minimum": {
+          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Win 10Processeur : Intel Core i5 @ 2.5 GHz or equivalentMémoire vive : 8 GB de mémoireGraphiques : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "processor": "64 bits nécessairesSystème d'exploitation : Win 10Processeur : Intel Core i5 @ 2.5 GHz or equivalentMémoire vive : 8 GB de mémoireGraphiques : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "memory": "vive : 8 GB de mémoireGraphiques : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "graphics": "NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "storage": "disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems"
+        },
+        "recommended": {
+          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Win 11Processeur : Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalentMémoire vive : 16 GB de mémoireGraphiques : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "processor": "64 bits nécessairesSystème d'exploitation : Win 11Processeur : Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalentMémoire vive : 16 GB de mémoireGraphiques : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "memory": "vive : 16 GB de mémoireGraphiques : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "graphics": "NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
+          "storage": "disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems"
+        }
+      },
+      "developer": "Wilnyl",
+      "publisher": "Landfall",
+      "downloadUrl": "",
+      "fileSize": "Non spécifié"
     }
   ]
 }
