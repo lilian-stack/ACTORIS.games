@@ -67,24 +67,24 @@
       "isVipOnly": false,
       "systemRequirements": {
         "minimum": {
-          "os": "et processeur 64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i3-3240, AMD FX-4300MÃ©moire viveÂ : 4Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "processor": "64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i3-3240, AMD FX-4300MÃ©moire viveÂ : 4Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "memory": "viveÂ : 4Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "graphics": "GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "storage": "disqueÂ : 8Â GB d'espace disque disponible"
+          "os": "et processeur 64 bits nÃÂ©cessairesSystÃÂ¨me d'exploitationÃÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÃÂ : Intel Core i3-3240, AMD FX-4300MÃÂ©moire viveÃÂ : 4ÃÂ GB de mÃÂ©moireGraphiquesÃÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "processor": "64 bits nÃÂ©cessairesSystÃÂ¨me d'exploitationÃÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÃÂ : Intel Core i3-3240, AMD FX-4300MÃÂ©moire viveÃÂ : 4ÃÂ GB de mÃÂ©moireGraphiquesÃÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "memory": "viveÃÂ : 4ÃÂ GB de mÃÂ©moireGraphiquesÃÂ : GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "graphics": "GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "storage": "disqueÃÂ : 8ÃÂ GB d'espace disque disponible"
         },
         "recommended": {
-          "os": "et processeur 64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i5-3470MÃ©moire viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "processor": "64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÂ : Intel Core i5-3470MÃ©moire viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "memory": "viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "graphics": "GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÂ : Version 10Espace disqueÂ : 8Â GB d'espace disque disponible",
-          "storage": "disqueÂ : 8Â GB d'espace disque disponible"
+          "os": "et processeur 64 bits nÃÂ©cessairesSystÃÂ¨me d'exploitationÃÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÃÂ : Intel Core i5-3470MÃÂ©moire viveÃÂ : 8ÃÂ GB de mÃÂ©moireGraphiquesÃÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "processor": "64 bits nÃÂ©cessairesSystÃÂ¨me d'exploitationÃÂ : Windows 10 version 21H1 (build 19043) or newerProcesseurÃÂ : Intel Core i5-3470MÃÂ©moire viveÃÂ : 8ÃÂ GB de mÃÂ©moireGraphiquesÃÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "memory": "viveÃÂ : 8ÃÂ GB de mÃÂ©moireGraphiquesÃÂ : GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "graphics": "GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectXÃÂ : Version 10Espace disqueÃÂ : 8ÃÂ GB d'espace disque disponible",
+          "storage": "disqueÃÂ : 8ÃÂ GB d'espace disque disponible"
         }
       },
       "developer": "Team Cherry",
       "publisher": "Team Cherry",
-      "downloadUrl": "https://pixeldrain.com/u/gcRDM6VM",
-      "fileSize": "Non spÃ©cifiÃ©",
+      "downloadUrl": "https://buzzheavier.com/jwolmm6g5k9a",
+      "fileSize": "Non spÃÂ©cifiÃÂ©",
       "isFavorite": false,
       "isInstalled": false
     }
