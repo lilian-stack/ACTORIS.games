@@ -111,24 +111,26 @@
       "isVipOnly": false,
       "systemRequirements": {
         "minimum": {
-          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Win 10Processeur : Intel Core i5 @ 2.5 GHz or equivalentMémoire vive : 8 GB de mémoireGraphiques : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "processor": "64 bits nécessairesSystème d'exploitation : Win 10Processeur : Intel Core i5 @ 2.5 GHz or equivalentMémoire vive : 8 GB de mémoireGraphiques : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "memory": "vive : 8 GB de mémoireGraphiques : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "graphics": "NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectX : Version 11Réseau : connexion internet haut débitEspace disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "storage": "disque : 4 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems"
+          "os": "et processeur 64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Win 10ProcesseurÂ : Intel Core i5 @ 2.5 GHz or equivalentMÃ©moire viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectXÂ : Version 11RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 4Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "processor": "64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Win 10ProcesseurÂ : Intel Core i5 @ 2.5 GHz or equivalentMÃ©moire viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectXÂ : Version 11RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 4Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "memory": "viveÂ : 8Â GB de mÃ©moireGraphiquesÂ : NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectXÂ : Version 11RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 4Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "graphics": "NVIDIA GeForce GTX 1050 ti or AMD R9 380DirectXÂ : Version 11RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 4Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "storage": "disqueÂ : 4Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems"
         },
         "recommended": {
-          "os": "et processeur 64 bits nécessairesSystème d'exploitation : Win 11Processeur : Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalentMémoire vive : 16 GB de mémoireGraphiques : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "processor": "64 bits nécessairesSystème d'exploitation : Win 11Processeur : Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalentMémoire vive : 16 GB de mémoireGraphiques : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "memory": "vive : 16 GB de mémoireGraphiques : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "graphics": "NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectX : Version 12Réseau : connexion internet haut débitEspace disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems",
-          "storage": "disque : 6 GB d'espace disque disponibleNotes supplémentaires : Only runs on 64 bit systems"
+          "os": "et processeur 64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Win 11ProcesseurÂ : Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalentMÃ©moire viveÂ : 16Â GB de mÃ©moireGraphiquesÂ : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectXÂ : Version 12RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 6Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "processor": "64 bits nÃ©cessairesSystÃ¨me d'exploitationÂ : Win 11ProcesseurÂ : Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalentMÃ©moire viveÂ : 16Â GB de mÃ©moireGraphiquesÂ : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectXÂ : Version 12RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 6Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "memory": "viveÂ : 16Â GB de mÃ©moireGraphiquesÂ : NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectXÂ : Version 12RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 6Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "graphics": "NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalentDirectXÂ : Version 12RÃ©seauÂ : connexion internet haut dÃ©bitEspace disqueÂ : 6Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems",
+          "storage": "disqueÂ : 6Â GB d'espace disque disponibleNotes supplÃ©mentairesÂ : Only runs on 64 bit systems"
         }
       },
       "developer": "Wilnyl",
       "publisher": "Landfall",
-      "downloadUrl": "",
-      "fileSize": "Non spécifié"
+      "downloadUrl": "https://buzzheavier.com/f80zdil9qmca",
+      "fileSize": "Non spÃ©cifiÃ©",
+      "isFavorite": false,
+      "isInstalled": false
     }
   ]
 }
